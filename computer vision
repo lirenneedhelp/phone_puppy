@@ -1,4 +1,0 @@
-mkdir midas-webcam
-cd midas-webcam
-python3 -m venv .venv
-source .venv/bin/activate
